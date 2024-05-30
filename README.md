@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/b9d2cf6f810f95b5fb495edca02c307d492c32f71a62ab6c801e416fa5492338/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966)](https://priyamspersonalportfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Abhishek </h1>
 
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center">A Passionate Web Developer from India</h3>
 <image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-0810&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-0810" /> </p>
