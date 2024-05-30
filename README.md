@@ -1,8 +1,9 @@
-[![MasterHead](https://imgs.search.brave.com/Aw61xC_6uKv4iUE8mCWsLw_SQCwt-YzQHP0MA4G2b4U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhhalIyYldZM2My/MWpPWEEyWm05MGNH/MXpjMlYxZEhaemFI/UmtkblZwZUdRMmVX/SnNjRzl1Y1NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTDhLNjJpVERr/ekdYNi8yMDAuZ2lm.gif)
+[![MasterHead](https://camo.githubusercontent.com/b9d2cf6f810f95b5fb495edca02c307d492c32f71a62ab6c801e416fa5492338/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966)](https://priyamspersonalportfolio.netlify.app/)
+<h1 align="center">Hola👋, Says Priyam Pal</h1>
 <h1 align="center">Hi 👋, I'm Abhishek Tiwari</h1>
 
 <h3 align="center">A Passionate Frontend Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/160jBm4xyjWoHR9W7I8nY1xpD2wOR3rI91AmQ01y6RM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhZWGgxT0RBMWNH/aHRNbXR3TVdReE4y/OTZjR2xpTUhjeWQy/NWtZbXd4YkhKaVp6/STJaVzh5TlNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vcWdRVWdnQUMz/UGZ2Njg3cVBDLzIw/MC5naWY.gif"
+<image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-0810&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-0810" /> </p>
 
